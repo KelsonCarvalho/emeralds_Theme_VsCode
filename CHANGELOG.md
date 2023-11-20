@@ -1,8 +1,7 @@
 # Change Log
 
-All notable changes to the "emeralds" extension will be documented in this file.
+- [1.0.2] 19/11/23 - Modificando descrisão do tema
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
 
